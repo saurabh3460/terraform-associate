@@ -7,7 +7,7 @@ This Study Guide is based on official Study Guide - Terraform Associate Certific
   - understand Infrastructure as Code (IaC) concepts - (Objective #1)
   - understand Terraform's purpose (vs other IaC) - (Objective #2)
 
-- [Manage infrastructure](https://github.com/saurabh3460/terraform-associate/tree/master/Manage%20infrastructure)
+* [Manage infrastructure](https://github.com/saurabh3460/terraform-associate/tree/master/Manage%20infrastructure)
   - Install terraform
   - Build Infrastructure
   - Change Infrastructure
