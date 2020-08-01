@@ -25,4 +25,6 @@ This Study Guide is based on official Study Guide - Terraform Associate Certific
 - [Terraform Settings](https://www.terraform.io/docs/configuration/terraform.html) documentation
 - [Provisioners](https://www.terraform.io/docs/provisioners/#provisioners-are-a-last-resort) documentation
 
-- [Master the workflow]
+* [Master the workflow]()
+
+#### [Sample Questions - Terraform Associate Certification](https://learn.hashicorp.com/terraform/certification/terraform-associate-sample-questions)
