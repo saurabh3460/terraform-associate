@@ -1,5 +1,5 @@
 # terraform-associate
-
+### Terraform v0.13 is here, updating to v0.13.
 This Study Guide is based on official Study Guide - Terraform Associate Certification.
 
 - Learn about IaC
