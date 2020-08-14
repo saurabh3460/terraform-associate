@@ -15,10 +15,10 @@ resource "aws_instance" "example" {
   depends_on = [aws_s3_bucket.example]
 }
 
-resource "aws_eip" "example_eip" {
-  vpc      = true
-  instance = aws_instance.example.id
-}
+// resource "aws_eip" "example_eip" {
+//   vpc      = true
+//   instance = aws_instance.example.id
+// }
 
 
 
