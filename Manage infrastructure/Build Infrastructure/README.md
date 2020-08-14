@@ -55,3 +55,6 @@ For Validation there is a built in ``terraform validate`` command, will check an
 ### Finally Create infrastructure
 
 In the same directory as the main.tf file we created, run ``terraform apply``.
+
+## Note
+Terraform 0.11 and earlier require running terraform plan before terraform apply. Use terraform version to confirm your running version.
