@@ -1,5 +1,7 @@
 # terraform-associate
+
 ### :tada: Terraform v0.13 is here, updating to v0.13.
+
 This Study Guide is based on official Study Guide - Terraform Associate Certification.
 
 - Learn about IaC
@@ -14,7 +16,7 @@ This Study Guide is based on official Study Guide - Terraform Associate Certific
   - Destroy Infrastructure
   - Create Resource Dependencies
   - Provision Infrastructure
-  - Define Input Variables
+  - [Define Input Variables](https://github.com/saurabh3460/terraform-associate/tree/master/Manage%20infrastructure/Define%20Input%20Variables)
   - Query Data with Output Variables
   - Store remote state
 
