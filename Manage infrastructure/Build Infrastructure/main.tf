@@ -7,11 +7,17 @@ terraform {
 }
 
 provider "aws" {
-  profile = "saurabh"
+  profile = "default"
   region  = "ap-south-1"
 }
 
+
+// Now Change Infrastructure 
+// changing ami
 resource "aws_instance" "example" {
-  ami           = "ami-0ebc1ac48dfd14136"
+  // ami           = "ami-0cda377a1b884a1bc" // Ubuntu Server 20.04 LTS
+  ami           = "ami-052c08d70def0ac62" // Red Hat Enterprise Linux 8
   instance_type = "t2.micro"
 }
+
+
