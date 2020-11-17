@@ -1,5 +1,4 @@
 terraform {
-
   required_providers {
     aws = {
       source  = "hashicorp/aws"
@@ -11,13 +10,12 @@ terraform {
 terraform {
   backend "remote" {
     organization = "CodeForFun"
-
     workspaces {
       name = "remote-state-test"
     }
   }
-
 }
+
 provider "aws" {
   profile = "default"
   region  = "ap-south-1"
