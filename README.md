@@ -1,6 +1,7 @@
 # terraform-associate
 
-### :tada: Terraform v0.13 is here, updating to v0.13.
+### This branch is for azure infrastructure.
+currently working on this branch any contribution is welcome :)
 
 This Study Guide is based on official Study Guide - Terraform Associate Certification.
 
